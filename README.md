@@ -5,3 +5,4 @@
 - CSS
 - Notmalize.css
 - SVG Sprites
+- Слайдер Swiper
